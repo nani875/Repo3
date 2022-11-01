@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 8AD3-847C
+
+ Directory of C:\Users\SPURGE\Desktop\Newproject
+
+11/01/2022  10:17 PM    <DIR>          .
+11/01/2022  10:17 PM    <DIR>          ..
+11/01/2022  10:17 PM                 0 text1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  167,399,690,240 bytes free
